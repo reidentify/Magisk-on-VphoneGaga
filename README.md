@@ -51,7 +51,7 @@ sh /sdcard/Documents/vmostool_magisk/vphonegaga
 ```
    4. Khởi động lại máy ảo.
 
-      Nếu bạn muốn tải Magisk thì hãy chạy lệnh này:
+      Nếu bạn muốn cài đặt Magisk thì hãy chạy lệnh này:
 ```
 su
 magisk_root enable
@@ -66,3 +66,4 @@ magisk_root enable
 ## Download
 
 Download link: https://link1s.com/MagiskVphoneGaGa
+VPhoneGaGa link: https://link1s.com/VphoneGaga
