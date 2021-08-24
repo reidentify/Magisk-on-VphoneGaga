@@ -24,7 +24,4 @@ magisk_root enable
 
 
 Also reboot to make it work...
-If you have some issues with Magisk on VphoneGaga, try VphoneGaga 32bit.
- 
- 
 Download from http://github.com/HuskyDG/VMOSPro_RootXposed_Terminal
