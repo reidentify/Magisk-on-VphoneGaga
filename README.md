@@ -23,7 +23,6 @@ magisk_root enable
 
 Also reboot to make it work...
 If you have some issues with Magisk on VphoneGaga, try VphoneGaga 32bit.
-You can disable Magisk by create dummy file name `.disable_magisk` on `/sdcard`
-   
+ 
  
 Download from http://github.com/HuskyDG/VMOSPro_RootXposed_Terminal
