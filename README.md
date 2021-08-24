@@ -4,7 +4,7 @@
 
 Set up a proper minial Magisk on VphoneGaga virtual machine without patching boot image
 
-VphoneGaga 32bit support only, 64bit will be supported soon!
+VphoneGaga 32bit and 64bit now supported!
 
 Good news for anyone who want to run Magisk on VMOS: Vphone have proper system and can run Magisk properly thanks to [emulator.sh](https://github.com/topjohnwu/Magisk/blob/master/scripts/emulator.sh) script by **topjohnwu**. 
 
@@ -35,7 +35,7 @@ Newer Magisk doesn't work
 
 Thiết lập môi trường Magisk thích hợp trên máy ảo VphoneGaga mà không cần vá hình ảnh khởi động
 
-Cách cài Magisk này chỉ hỗ trợ VphoneGaga 32bit, 64bit sẽ sớm được hỗ trợ!
+Cách cài Magisk này hỗ trợ VphoneGaga 32bit và 64bit!
 
 Tin vui cho những ai muốn chạy Magisk trên VMOS: Vphone có hệ thống phù hợp và có thể chạy Magisk đúng cách nhờ [emulator.sh](https://github.com/topjohnwu/Magisk/blob/master/scripts/emulator.sh  ) script của **topjohnwu**.
 
