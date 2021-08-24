@@ -24,4 +24,8 @@ magisk_root enable
 
 
 Also reboot to make it work...
+
+Only install Magisk Manager v8.0.0
+Newer Magisk doesn't work
+
 Download from http://github.com/HuskyDG/VMOSPro_RootXposed_Terminal
