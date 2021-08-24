@@ -1,6 +1,8 @@
 # Magisk on VphoneGaga
 Set up a proper minial Magisk on VphoneGaga virtual machine without patching boot image
 
+VphoneGaga 32bit support only, 64bit will be support soon!
+
 Good news for anyone who want to run Magisk on VMOS: Vphone have proper system and can run Magisk properly thanks to [emulator.sh](https://github.com/topjohnwu/Magisk/blob/master/scripts/emulator.sh) script by **topjohnwu**. Because VphoneGaga doesn't allow Magisk on init stage so I only put it run on late_start stage so Magisk modules cannot load which need to load after post-fs-data and before late_start stage. VphoneGaga kernel doesn't support mount namespace so impossible to make MagiskHide work. 
 
   1. Download `vmostool_magisk.zip`
