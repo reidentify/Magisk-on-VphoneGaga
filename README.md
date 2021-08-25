@@ -34,13 +34,6 @@ Also reboot to make it work...
 Only install Magisk Manager v8.0.0
 Newer Magisk doesn't work
 
-### Limitations
-
-- **MagiskSU**: Work perfectly
-
-- **MagiskHide**: Not work because VphoneGaga kernel doesn't support **Mount namespace**
-
-- **Magisk Modules**: Not work because this progress need to load before `late_start` stage
 
 ## Tiếng Việt
 
@@ -75,13 +68,6 @@ magisk_root enable
 
  Chỉ cài đặt Magisk Manager v8.0.0
  Magisk mới hơn không hoạt động
-
-### Limitations
-- **MagiskSU**: Hoạt động chính xác
-
-- **MagiskHide**: Không hoạt động vì VphoneGaga kernel không hỗ trợ **Mount namespace**
-
-- **Magisk Modules**: Không hoạt động vì quá trình này cần load trước giai đoạn `late_start`
 
 
 ## Download
