@@ -2,11 +2,14 @@
 
 ## English
 
+
 Set up a proper minial Magisk on VphoneGaga virtual machine without patching boot image
 
 VphoneGaga 32bit and 64bit now supported!
 
 Good news for anyone who want to run Magisk on VMOS: Vphone have proper system and can run Magisk properly thanks to [emulator.sh](https://github.com/topjohnwu/Magisk/blob/master/scripts/emulator.sh) script by **topjohnwu**. 
+
+### Installation
 
   1. Download `vmostool_magisk.zip`
   2. Import to VphoneGaga. You can find it at `/sdcard/Documents`, extract to any folder. For example here `/sdcard/Documents/vmostool_magisk`.
@@ -31,6 +34,14 @@ Also reboot to make it work...
 Only install Magisk Manager v8.0.0
 Newer Magisk doesn't work
 
+### Limitations
+
+- **MagiskSU**: Work perfectly
+
+- **MagiskHide**: Not work because VphoneGaga kernel doesn't support **Mount namespace**
+
+- **Magisk Modules**: Not work
+
 ## Tiếng Việt
 
 Thiết lập môi trường Magisk thích hợp trên máy ảo VphoneGaga mà không cần vá hình ảnh khởi động
@@ -38,6 +49,8 @@ Thiết lập môi trường Magisk thích hợp trên máy ảo VphoneGaga mà 
 Cách cài Magisk này hỗ trợ VphoneGaga 32bit và 64bit!
 
 Tin vui cho những ai muốn chạy Magisk trên VMOS: Vphone có hệ thống phù hợp và có thể chạy Magisk đúng cách nhờ [emulator.sh](https://github.com/topjohnwu/Magisk/blob/master/scripts/emulator.sh  ) script của **topjohnwu**.
+
+### Cài đặt
 
    1. Tải xuống `vmostool_magisk.zip`
    2. Nhập vào VphoneGaga.  Bạn có thể tìm thấy nó tại `/sdcard/Documents`, giải nén vào bất kỳ thư mục nào.  Ví dụ ở đây `/sdcard/Documents/vmostool_magisk`.
@@ -62,6 +75,14 @@ magisk_root enable
 
  Chỉ cài đặt Magisk Manager v8.0.0
  Magisk mới hơn không hoạt động
+
+### Limitations
+- **MagiskSU**: Hoạt động chính xác
+
+- **MagiskHide**: Không hoạt động vì VphoneGaga kernel không hỗ trợ **Mount namespace**
+
+- **Magisk Modules**: Không hoạt động
+
 
 ## Download
 
