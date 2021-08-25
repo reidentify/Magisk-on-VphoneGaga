@@ -40,7 +40,7 @@ Newer Magisk doesn't work
 
 - **MagiskHide**: Not work because VphoneGaga kernel doesn't support **Mount namespace**
 
-- **Magisk Modules**: Not work
+- **Magisk Modules**: Not work because this progress need to load before `late_start` stage
 
 ## Tiếng Việt
 
@@ -81,7 +81,7 @@ magisk_root enable
 
 - **MagiskHide**: Không hoạt động vì VphoneGaga kernel không hỗ trợ **Mount namespace**
 
-- **Magisk Modules**: Không hoạt động
+- **Magisk Modules**: Không hoạt động vì quá trình này cần load trước giai đoạn `late_start`
 
 
 ## Download
