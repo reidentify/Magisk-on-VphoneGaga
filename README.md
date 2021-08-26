@@ -1,5 +1,7 @@
 # Magisk on VphoneGaga
 
+<img src="https://i.imgur.com/s67IoUZ.jpg"/>
+
 ## English
 
 
