@@ -37,8 +37,9 @@ Only install Magisk Manager v8.0.0
 Newer Magisk doesn't work
 
 ## Limitations 
-- Android's kernel on this virtual machine was too old and didn't support Mount Namespace which is used by MagiskHide to hide itself by unmount /sbin/su from other app
-- `/dev/tmp` issue so module failed to install
+- **Only MagiskSU works:** it can prompt Superuser request when app excute `su` binary
+- **MagiskHide:** Android's kernel on this virtual machine was too old and didn't support Mount Namespace which is used by MagiskHide to hide itself by unmount /sbin/su from other app
+- **MagiskModule** `/dev/tmp` issue so module failed to install
 - VphoneGaga blocks Magisk from running on post-fs-data stage so if Magisk Module is installed, it won't work
 
 
